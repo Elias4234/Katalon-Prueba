@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Card TypeVisaMastercard</name>
+   <tag></tag>
+   <elementGuidId>dec5ff40-f895-40a0-b931-0490458afd72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='card_type']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#card_type</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>94673c17-4f51-4fbb-9120-91afdfe7facc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>card_type</value>
+      <webElementGuid>5fdedf50-9e4a-4354-a4d4-bba3e1dbbea1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>card_type</value>
+      <webElementGuid>954727bb-61c1-4e06-82f0-5300359a2efe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select_middle_size mandatory</value>
+      <webElementGuid>bc969b07-5695-46a1-9db5-ae502cb4cbe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:validate_field_3(3);</value>
+      <webElementGuid>5e579cf8-f254-4af1-bc63-f9b02017220f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Card Type
+Visa
+Mastercard
+</value>
+      <webElementGuid>0db41818-898a-41af-96be-ef788ea5f54e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;card_type&quot;)</value>
+      <webElementGuid>6f7ef1b4-ecdf-4c14-b8f4-26b32b1d99ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='card_type']</value>
+      <webElementGuid>864157c4-13e9-4969-be57-ae07b520b2bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='credit_card_content']/p/select</value>
+      <webElementGuid>4daeb3dc-636c-44aa-92b4-43cca2858a91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Step 3 Tell Us How You Will Pay'])[1]/following::select[1]</value>
+      <webElementGuid>2314f895-57ba-4eae-9d63-cc476133d129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Important: Do not enter real credit card information on this training web page.'])[1]/following::select[1]</value>
+      <webElementGuid>7ad50631-e754-433e-b679-d8d6cbb37095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify Credit Limit'])[1]/preceding::select[3]</value>
+      <webElementGuid>29085881-4553-4071-9657-82010e418186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alert'])[1]/preceding::select[3]</value>
+      <webElementGuid>0ed2ddfd-38a3-40da-a00f-35a7f019f41b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>4f10b6e6-67ea-4164-90e7-3cb0e1237dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'card_type' and @name = 'card_type' and (text() = '
+Card Type
+Visa
+Mastercard
+' or . = '
+Card Type
+Visa
+Mastercard
+')]</value>
+      <webElementGuid>bc83877d-1e92-4d39-8a16-734525e5fb14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

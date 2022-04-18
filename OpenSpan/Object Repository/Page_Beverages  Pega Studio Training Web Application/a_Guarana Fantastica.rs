@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Guarana Fantastica</name>
+   <tag></tag>
+   <elementGuidId>d0e06f53-5fda-46e0-a92e-ba84f89cc777</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='shopping_seasoning_products']/tbody/tr[5]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fa98a5c3-262c-4f94-8331-fb505f0db871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://training.openspan.com/product/detail/1/24</value>
+      <webElementGuid>36ae7666-855a-4881-863a-469a3c1c6e3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product_detail_text</value>
+      <webElementGuid>032f52ac-55b0-4481-890e-5df38d29d8c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Guarana Fantastica</value>
+      <webElementGuid>1218a864-9d17-436d-acb1-fde89578bd26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopping_seasoning_products&quot;)/tbody[1]/tr[5]/td[@class=&quot;product&quot;]/a[@class=&quot;product_detail_text&quot;]</value>
+      <webElementGuid>3b8655f3-5450-4a90-9142-3474d689f626</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='shopping_seasoning_products']/tbody/tr[5]/td/a</value>
+      <webElementGuid>6a390f7f-15ff-4c16-9fdb-ac53a6098a67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Guarana Fantastica')]</value>
+      <webElementGuid>15a19820-c257-43c6-84a1-cdb98f434ed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cote de Blaye'])[1]/following::a[1]</value>
+      <webElementGuid>52b58abd-3d29-4d70-ab65-61dba4dbcf06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chartreuse verte'])[1]/following::a[2]</value>
+      <webElementGuid>12c17fef-006e-4c1f-b2af-33aa889d4b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ipoh Coffee'])[1]/preceding::a[1]</value>
+      <webElementGuid>fdb0658b-2e6d-42b2-8d1e-8792df9492da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lakkalikoori'])[1]/preceding::a[2]</value>
+      <webElementGuid>d0fc0caf-5069-42ce-bba4-e3cca09f5c00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Guarana Fantastica']/parent::*</value>
+      <webElementGuid>e6e34ed9-5eac-4b24-a56c-a38ad815eef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://training.openspan.com/product/detail/1/24')]</value>
+      <webElementGuid>17c09a8a-dd97-4979-8059-61c2fdbc9886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td/a</value>
+      <webElementGuid>13b6eb70-0ffb-43e9-8b78-25b71a50e7a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://training.openspan.com/product/detail/1/24' and (text() = 'Guarana Fantastica' or . = 'Guarana Fantastica')]</value>
+      <webElementGuid>c166f93f-bdd8-44d2-b864-64938c5e0f31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
